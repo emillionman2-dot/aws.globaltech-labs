@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact | Globaltech</title>
+  <meta name="description" content="Contact Globaltech in Abuja: address, phone, email and opening hours.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">🏠 Globaltech</a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="contact.html" class="active">Contact</a>
+      <a href="error.html">Help</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-title">
+      <h1>Get in touch</h1>
+      <p>We would love to hear from you. Reach us any of these ways.</p>
+    </section>
+
+    <section class="section">
+      <div class="grid">
+        <article class="card">
+          <div class="card-visual" aria-hidden="true">📍</div>
+          <h3>Visit us</h3>
+          <p>Globaltech Home Goods<br>
+          14 Example Close, Wuse II<br>
+          Abuja, FCT, Nigeria</p>
+        </article>
+        <article class="card">
+          <div class="card-visual" aria-hidden="true">📞</div>
+          <h3>Call us</h3>
+          <p>+234 800 000 0000</p>
+          <h3>Email us</h3>
+          <p>hello@globaltech.example</p>
+        </article>
+        <article class="card">
+          <div class="card-visual" aria-hidden="true">🕘</div>
+          <h3>Opening hours</h3>
+          <table class="hours">
+            <tr><td>Monday – Friday</td><td>9:00 am – 6:00 pm</td></tr>
+            <tr><td>Saturday</td><td>10:00 am – 4:00 pm</td></tr>
+            <tr><td>Sunday</td><td>Closed</td></tr>
+          </table>
+          <p class="small">Times are West Africa Time (WAT).</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="band">
+      <h2>Not sure what to pick?</h2>
+      <p>Have a look at our range, then give us a call and we will help you choose.</p>
+      <p><a class="button button-light" href="products.html">Browse products</a></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+      <a href="error.html">Help</a>
+    </nav>
+    <p>&copy; 2026 Globaltech, Abuja, Nigeria. A fictional store for demonstration.</p>
+  </footer>
+</body>
+</html>

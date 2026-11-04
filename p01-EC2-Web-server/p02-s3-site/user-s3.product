@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Products | Globaltech</title>
+  <meta name="description" content="Browse Globaltech home goods with prices in Nigerian Naira.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">🏠 Globaltech</a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html" class="active">Products</a>
+      <a href="contact.html">Contact</a>
+      <a href="error.html">Help</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-title">
+      <h1>Our products</h1>
+      <p>Simple, lovely things for your home. All prices are in Nigerian Naira (₦).</p>
+    </section>
+
+    <section class="section">
+      <div class="grid">
+        <article class="card">
+          <div class="card-visual" aria-hidden="true">🍲</div>
+          <h3>Cast Iron Pot</h3>
+          <p>Heavy, even-heating pot for stews, jollof and slow cooking.</p>
+          <p class="price">₦48,500</p>
+        </article>
+        <article class="card">
+          <div class="card-visual" aria-hidden="true">💡</div>
+          <h3>Rattan Table Lamp</h3>
+          <p>Woven shade that casts a soft, warm glow in any corner.</p>
+          <p class="price">₦32,000</p>
+        </article>
+        <article class="card">
+          <div class="card-visual" aria-hidden="true">🛏️</div>
+          <h3>Cotton Bedding Set</h3>
+          <p>Breathable, soft cotton sheets and pillowcases for cool nights.</p>
+          <p class="price">₦56,800</p>
+        </article>
+        <article class="card">
+          <div class="card-visual" aria-hidden="true">🪴</div>
+          <h3>Ceramic Plant Pot</h3>
+          <p>Hand-glazed terracotta-toned pot with a drainage tray.</p>
+          <p class="price">₦14,500</p>
+        </article>
+        <article class="card">
+          <div class="card-visual" aria-hidden="true">🕯️</div>
+          <h3>Scented Candle Trio</h3>
+          <p>Three long-burning candles in vanilla, cedar and citrus.</p>
+          <p class="price">₦18,900</p>
+        </article>
+        <article class="card">
+          <div class="card-visual" aria-hidden="true">🧺</div>
+          <h3>Woven Storage Basket</h3>
+          <p>Sturdy handwoven basket for laundry, toys or blankets.</p>
+          <p class="price">₦21,000</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="band">
+      <h2>Want to order?</h2>
+      <p>Call or email us and we will arrange payment and delivery.</p>
+      <p><a class="button button-light" href="contact.html">Contact us</a></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+      <a href="error.html">Help</a>
+    </nav>
+    <p>&copy; 2026 Globaltech, Abuja, Nigeria. A fictional store for demonstration.</p>
+  </footer>
+</body>
+</html>
+

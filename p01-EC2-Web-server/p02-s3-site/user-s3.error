@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found | Globaltech</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">🏠 Globaltech</a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+      <a href="error.html" class="active">Help</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="not-found">
+      <div class="big-emoji" aria-hidden="true">🛋️❓</div>
+      <h1>Oops, this page wandered off</h1>
+      <p>We looked in every room but could not find the page you wanted. It may have moved, or the link may be mistyped.</p>
+      <p>
+        <a class="button" href="index.html">Take me back home</a>
+        <a class="button button-light" href="products.html">See our products</a>
+      </p>
+      <p class="small">Still stuck? <a href="contact.html">Contact us</a> and we will help.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+      <a href="error.html">Help</a>
+    </nav>
+    <p>&copy; 2026 Globaltech, Abuja, Nigeria. A fictional store for demonstration.</p>
+  </footer>
+</body>
+</html>
